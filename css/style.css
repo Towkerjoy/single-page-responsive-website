@@ -1,0 +1,27 @@
+html {
+  scroll-behavior: smooth;
+}
+body{
+	background: #333;
+	color: #fff;
+}
+.navbar{
+	border-bottom: 3px solid #12eca6cf;
+	background-color: #292b2c;
+	opacity:.8;
+}
+.fa{
+	padding:4px;
+	color:#12eca6cf;
+	font-size:30px;
+	
+}
+#explore-main{
+	.fa{
+	font-size:30px;
+	color:fff;
+	background:#333;
+	border-radius:5px;
+	padding:4px;
+	}
+}
